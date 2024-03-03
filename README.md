@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-get&label=Profile%20views&color=0e75b6&style=flat" alt="dave-get" /> </p>
 <div align="center">
-  <img src="[(https://github.com/dave-get/dave-get/raw/main/assets/123627794/fe321d8e-2)]" width="400px" alt="Description of the image">
+  <img src="![gif3](https://github.com/dave-get/dave-get/assets/123627794/1fce3f5d-484a-4215-97be-bfebda12440c)
+" width="400px" alt="Description of the image">
 </div>
 
 
