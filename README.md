@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dawit Getachew</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
+![image](https://github.com/dave-get/dave-get/assets/123627794/92b4a76c-afaf-4f47-b0bc-78d65f5153f0)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-get&label=Profile%20views&color=0e75b6&style=flat" alt="dave-get" /> </p>
 
 - 🔭 I’m currently working on **web frontend development**
