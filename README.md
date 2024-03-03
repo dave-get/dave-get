@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-get&label=Profile%20views&color=0e75b6&style=flat" alt="dave-get" /> </p>
 <div align="right">
-  <img src="![gif3](https://github.com/dave-get/dave-get/assets/123627794/59765990-c489-46f7-9fff-6db4a1ee3cf3)" width="300px" height="200px" alt="">
+  <img src="![image](https://github.com/dave-get/dave-get/assets/123627794/6877d661-d859-41db-a7bc-a972ab41a6e2)
+" width="300px" height="200px" alt="">
 </div>
-
 
 - 🔭 I’m currently working on **web frontend development**
 
@@ -15,8 +15,6 @@
 - 👯 I’m looking to collaborate on **full stack web development**
 
 - 📫 How to reach me **davewaanofii@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EwNA-QPeMQ0sYlGWnX-UatEE8vfHqbhDXcGFWGBkn3Q/edit](https://docs.google.com/document/d/1EwNA-QPeMQ0sYlGWnX-UatEE8vfHqbhDXcGFWGBkn3Q/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
