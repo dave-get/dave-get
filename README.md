@@ -7,7 +7,7 @@
 <img align="right" width="270px" height="200px" alt="Coding" src="![gif3](https://github.com/dave-get/dave-get/assets/123627794/65ed5819-d58c-41c0-8962-581cd8d270a6)
 ">
 
-- 🔭 I’m currently working on **web frontend development**
+- 🔭 I’m currently working on **frontend web development**
 
 - 🌱 I’m currently learning **Computer Science and Engineering at ASTU**
 
