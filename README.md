@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-get&label=Profile%20views&color=0e75b6&style=flat" alt="dave-get" /> </p>
 <div align="right">
   <img src="![image](https://github.com/dave-get/dave-get/assets/123627794/6877d661-d859-41db-a7bc-a972ab41a6e2)
-" width="300px" height="200px" alt="">
+" width="270px" height="200px" alt="">
 </div>
 
 - 🔭 I’m currently working on **web frontend development**
