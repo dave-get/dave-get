@@ -3,7 +3,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-get&label=Profile%20views&color=0e75b6&style=flat" alt="dave-get" /> </p>
-<div align="center"> <img src="![(https://github.com/dave-get/dave-get/assets/123627794/fe321d8e-2aa0-4b4b-903f-f44b1a4b8344)"></div>
+<div align="center">
+  <img src="[(https://github.com/dave-get/dave-get/raw/main/assets/123627794/fe321d8e-2)]" width="400px" alt="Description of the image">
+</div>
+
 
 - 🔭 I’m currently working on **web frontend development**
 
