@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawit Getachew</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack Developer from Ethiopia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-get&label=Profile%20views&color=0e75b6&style=flat" alt="dave-get" /> </p>
@@ -7,11 +7,9 @@
 <img align="right" width="270px" height="200px" alt="Coding" src="![gif3](https://github.com/dave-get/dave-get/assets/123627794/65ed5819-d58c-41c0-8962-581cd8d270a6)
 ">
 
-- 🔭 I’m currently working on **frontend web development**
+- 🔭 I’m currently working on **Full-Stack Web Development**
 
 - 🌱 I’m currently learning **Computer Science and Engineering at ASTU**
-
-- 👯 I’m looking to collaborate on **full stack web development**
 
 - 📫 How to reach me **davewaanofii@gmail.com**
 
